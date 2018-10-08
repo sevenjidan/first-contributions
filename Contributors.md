@@ -7064,6 +7064,6 @@ Kashish Khullar - :P
 - [Prakhar Gupta](https://github.com/prakhar897)
 - [Yoga Agung Prasetio](https://github.com/yogaap24)
 - [blueetreebranch] (https://github.com/blueetreebranch)
+- [Sevenjidan] (https://github.com/sevenjidan)
 - [0dayherman] (https://github.com/0dayherman)
 - [christm] (https://github.com/clerity85)
-- [Umang Raval](https://github.com/umangraval)
